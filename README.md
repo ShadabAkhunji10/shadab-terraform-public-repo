@@ -1,2 +1,3 @@
-# shadab-terraform-public-repo
-Public repository created using Terraform
+## Terraform Practical
+
+Repository created by Shadab using Terraform.
